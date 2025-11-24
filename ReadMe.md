@@ -1,4 +1,3 @@
-
 # Ex02 Commercial Website
 ## Date:11.08.2025
 
